@@ -8,6 +8,14 @@
   },
   "homepage": "https://github.com/zulhwk/gitwf",
   "devDependencies": {
+    "@types/node": "^22.2.0",
+    "@types/readline-sync": "^1.4.8",
+    "husky": "^9.1.4",
+    "readline-sync": "^1.4.10",
     "typescript": "^5.5.4"
+  },
+  "scripts": {
+    "prepare": "husky",
+    "build": "tsc"
   }
 }
