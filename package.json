@@ -1,0 +1,10 @@
+{
+  "name": "gitwf",
+  "version": "1.0.0",
+  "description": "Git tools",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zulhwk/gitwf.git"
+  },
+  "homepage": "https://github.com/zulhwk/gitwf"
+}

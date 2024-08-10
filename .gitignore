@@ -1,0 +1,13 @@
+*.log
+*.swo
+*.swp
+.DS_Store
+.idea/
+node_modules/
+npm-debug.log
+.vscode/
+yarn-error.log
+dist/
+package-lock.json
+/binaries/
+coverage/
